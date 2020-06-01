@@ -1,0 +1,1 @@
+https://discord.com/api/guilds/705202501967806514/widget.json
